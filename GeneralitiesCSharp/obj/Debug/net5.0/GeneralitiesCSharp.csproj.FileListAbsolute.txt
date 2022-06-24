@@ -1,0 +1,15 @@
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.exe
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.deps.json
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.runtimeconfig.json
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.runtimeconfig.dev.json
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.dll
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\ref\GeneralitiesCSharp.dll
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\bin\Debug\net5.0\GeneralitiesCSharp.pdb
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.AssemblyInfoInputs.cache
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.AssemblyInfo.cs
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.dll
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\ref\GeneralitiesCSharp.dll
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.pdb
+C:\Users\sanc802293\source\repos\GeneralidadesCSharp\GeneralidadesCSharp\obj\Debug\net5.0\GeneralitiesCSharp.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+
+.vs/GeneralitiesCSharp/v16/.suo
+*.dll
+*.json
+*.cache
+*.exe
+*.pdb
+GeneralidadesCSharp/obj/Debug/net5.0/GeneralidadesCSharp.csproj.FileListAbsolute.txt
+GeneralidadesCSharp/obj/Debug/net5.0/GeneralitiesCSharp.csproj.FileListAbsolute.txt
+*.props
+*.targets
