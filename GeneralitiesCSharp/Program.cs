@@ -1,4 +1,5 @@
 ﻿using GeneralidadesCSharp.AsyncTopic;
+using GeneralitiesCSharp.AbstractClassTopic;
 using System;
 using System.Threading.Tasks;
 
@@ -9,8 +10,11 @@ namespace GeneralidadesCSharp
 
         public static async Task Main(string[] args)
         {
-            AsyncExample asyncExample = new();
-            await asyncExample.InitExample();
+            //AsyncExample asyncExample = new();
+            //await asyncExample.InitExample();
+
+            AbstractExample ae = new();
+            ae.RunExample();
         }
 
 

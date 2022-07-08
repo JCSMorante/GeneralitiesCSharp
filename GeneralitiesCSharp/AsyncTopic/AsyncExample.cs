@@ -15,19 +15,21 @@ namespace GeneralidadesCSharp.AsyncTopic
         public async Task InitExample()
         {
             
-            var taskBake = Bake();
+            var taskBake = Bake().GetAwaiter();
+            taskBake.GetResult();
             var taskDishwashing = Dishwashing();
 
-            await taskBake;
+            //await taskBake;
             await taskDishwashing;
 
             Console.Read();
         }
-        public async Task Bake()
+        public async Task <bool> Bake()
         {
             Console.WriteLine("The oven is on");
             await Task.Delay(10000);
             Console.WriteLine("The oven is off");
+            return true;
 
         }
 
